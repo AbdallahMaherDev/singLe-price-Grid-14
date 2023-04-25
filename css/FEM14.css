@@ -161,7 +161,7 @@ body {
 }
 @media (min-width: 768px) {
     body {
-        margin-top: 4px;
+        margin-top: 2px;
         overflow: hidden;
     }
     .container {
