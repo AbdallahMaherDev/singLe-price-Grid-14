@@ -39,10 +39,11 @@ body {
     background-color: white;
     padding: 40px 40px 41px 40px;
 }
-.container .top h2 { 
+.container .top h1 { 
     margin-bottom: 24px;
     color: var(--Cyan);
     letter-spacing: -0.3px;
+    font-size: 24px;
  }
 .container .top h3 {
     font-size: 17px;
@@ -115,7 +116,7 @@ body {
     .container .top {
         padding: 26px 22px 30px 22px;  
     }
-    .container .top h2 { 
+    .container .top h1 { 
         font-size: 19px;
         margin-bottom: 23px;
     }
@@ -160,7 +161,7 @@ body {
 }
 @media (min-width: 768px) {
     body {
-        margin-top: 7px;
+        margin-top: 5px;
         overflow: hidden;
     }
     .container {
